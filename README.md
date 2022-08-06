@@ -50,5 +50,5 @@ Python, Java <br/>
 
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=yxxjxxxhxxx&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxjxxxhxxx&layout=compact&theme=vue&hide_border=true" />
 
