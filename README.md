@@ -23,7 +23,7 @@ Python, Java <br/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Raspberry Pi-orange?style=flat-square&logo=Raspberry Pi&logoColor=A22846"/>
-// <img>태크 alt "올려놓으면 나오는 이미지" src = "shield.io 주소 / openCV-배경색? style= 보여질 형태&로고 = 로고이름(회사이름)&logoColor="글자색"
+<!-- <img>태크 alt "올려놓으면 나오는 이미지" src = "shield.io 주소 / openCV-배경색? style= 보여질 형태&로고 = 로고이름(회사이름)&logoColor="글자색" -->
 </p>
 
 <p>
