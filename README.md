@@ -16,18 +16,18 @@ Python, Java <br/>
 [PAPAGO_API](https://github.com/yxxjxxxhxxx/papago)
 
 ### Languages and Tools
-#A22846
 <p>
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-0000?style=flat-square&logo=OpenCV&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Raspberry Pi-orange?style=flat-square&logo=Raspberry Pi&logoColor=A22846"/>
-
+// <img>태크 alt "올려놓으면 나오는 이미지" src = "shield.io 주소 / openCV-배경색? style= 보여질 형태&로고 = 로고이름(회사이름)&logoColor="글자색"
 </p>
 
 <p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
