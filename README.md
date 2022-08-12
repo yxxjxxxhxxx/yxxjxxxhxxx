@@ -13,7 +13,7 @@ Web development <br/>
 Python, Java <br/>
 
 ### Latest Projects
-[PAPAGO_API](https://github.com/yxxjxxxhxxx/papago)
+[PAPAGO_API](https://github.com/yxxjxxxhxxx/papago), <br>
 [gifticon](https://github.com/12OneTwo12/mini-project)
 ### Languages and Tools
 <p>
