@@ -14,7 +14,7 @@ Python, Java <br/>
 
 ### Latest Projects
 [PAPAGO_API](https://github.com/yxxjxxxhxxx/papago)
-
+[gifticon](https://github.com/12OneTwo12/mini-project)
 ### Languages and Tools
 <p>
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-0000?style=flat-square&logo=OpenCV&logoColor=white" />
